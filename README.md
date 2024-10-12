@@ -9,7 +9,7 @@ A dedicated technology student passionate about continuous learning and problem-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Next&logoColor=black) 
-![Next.js Logo](https://raw.githubusercontent.com/vercel/next.js/canary/packages/next/client/dev/img/next-logo.svg)
+
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
